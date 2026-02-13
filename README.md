@@ -1,5 +1,13 @@
-## Hi there 👋
+## 👨‍💻 Nedal Shoqo | Software Engineer <br>
+🎓 specialized in full-stack development <br>
+💻 Skilled in C++, Python, Java, JavaScript, Node.js, MySQL, MERN stack <br>
+🌱 Passionate about building user-friendly applications and exploring innovative tech <br>
+🚀 “Continuous learning is the minimum requirement for success in any field.” – Brian Tracy <br>
 
+<ul>
+  <li>🔗 <a href="https://www.linkedin.com/in/nedal-shoqo-b717372b4">LinkedIn</a></li>
+  
+</ul>
 <!--
 **NedalShoqo/NedalShoqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
