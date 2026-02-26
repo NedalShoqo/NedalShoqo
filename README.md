@@ -59,8 +59,6 @@
   <br>
 </ul>
 </table>
-  <img src="https://github.com/user-attachments/assets/04d5b3f6-e162-4680-9076-ff33c6f55a28"
-       alt="Nedal Shoqo"
-       style="width: 1600px; height: 1000px; object-fit: cover; position: relative; left: -100px;" />
+
 
 
