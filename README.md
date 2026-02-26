@@ -21,8 +21,8 @@
       
    
   <td style="vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/1cd53c43-d89f-4bc8-b277-e688f2ca781b" 
-           style="width: 500px; height: auto; object-fit: cover;" />
+      <img src="https://github.com/user-attachments/assets/1cd53c43-d89f-4bc8-b277-e688f2ca781b"
+     style="max-width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
