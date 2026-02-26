@@ -17,11 +17,16 @@
        :briefcase: <a href="https://www.linkedin.com/in/nedal-shoqo-b717372b4">LinkedIn</a> 
        :book: <a href="https://www.fiverr.com/nedal_shoqo/buying?source=avatar_menu_profile">Fiverr</a>
        :pencil: <a href="https://www.upwork.com/freelancers/~01d1315b3eace7b109">UpWork</a>
+      <br>
+      <br>
+      <br>
+      <img src="https://github.com/user-attachments/assets/cd5e260b-1872-4db4-8c3c-2901b4bc583c" style="width: 100%; height: 300px;" />
     </td>
       
-   
+
+
   <td style="vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/1cd53c43-d89f-4bc8-b277-e688f2ca781b"
+    <img src="https://github.com/user-attachments/assets/3e3fe52e-88bf-4c73-aadd-2b33bd3db0bc"
      style="max-width: 100%; height: auto;" />
     </td>
   </tr>
