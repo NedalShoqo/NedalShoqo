@@ -22,7 +22,7 @@
    
   <td style="vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/1cd53c43-d89f-4bc8-b277-e688f2ca781b" 
-           style="max-width: 400px; height: auto; object-fit: cover;" />
+           style="width: 500px; height: auto; object-fit: cover;" />
     </td>
   </tr>
 </table>
