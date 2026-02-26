@@ -1,6 +1,7 @@
 
+
 <div style="position: relative; width: 100%; height: 400px; overflow: visible; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/13d5e7ec-ddbf-46c8-a5f9-ea7443810cd9" 
+  <img src="https://github.com/user-attachments/assets/c396ab93-7250-4e97-ba2f-adad7ce33cad" 
        alt="Nedal Shoqo"
        style="width: 1600px; height: 600px; object-fit: cover; position: relative; left: -100px;" />
 </div> <br> <br>
