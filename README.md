@@ -60,7 +60,6 @@
 <ul>
   
   <li>Game Development & Design</li>
-  <li>Advanced React & Node.js patterns</li>
   <li>System design & scalable architectures</li>
   <br>
 </ul>
