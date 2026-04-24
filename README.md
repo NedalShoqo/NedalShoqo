@@ -61,6 +61,8 @@
   <li>Build Web Apps </li>
   <li>Develop Desktop & Console applications</li>
   <li>Create Mobile Apps</li>
+  <li>Develop 2D Games </li>
+  <li>Design 2D Games  </li>
     <br> 
     <br>
     
