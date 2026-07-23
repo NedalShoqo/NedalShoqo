@@ -15,7 +15,6 @@
       <p>🌱 Passionate about building user-friendly applications and exploring innovative tech</p>
       <p>🚀 “Continuous learning is the minimum requirement for success in any field.” – Brian Tracy</p>
        :briefcase: <a href="https://www.linkedin.com/in/nedal-shoqo-b717372b4">LinkedIn</a> 
-       :book: <a href="https://www.fiverr.com/nedal_shoqo/buying?source=avatar_menu_profile">Fiverr</a>
        :pencil: <a href="https://www.upwork.com/freelancers/~01d1315b3eace7b109">UpWork</a>
       <br>
       <br>
