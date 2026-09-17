@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-# ☕ Nedal Shoqo | Java Software Developer
+ ☕ Nedal Shoqo | Java Software Developer
 
 💻 Software Engineer focused on Java development and backend engineering  
 🌱 Building reliable, maintainable, and scalable applications  
@@ -45,31 +45,38 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </td>
-  <td style="vertical-align: top;">
-       <h1> Java Projects</h3>
+ <td style="vertical-align: top;">
+   <h1>Java Projects</h3>
+
    <h3>🎭 Java MoodTracker</h3>
-      <p>A desktop/backend application designed to track, analyze, and log daily emotional trends and habits over time using Java.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-      </p>
-      <p>
-        🔗 <a href="https://github.com/NedalShoqo/Java-MoodTracker"><b>View Repository »</b></a>
-      </p>
-      <h3>🛒 Java Shopping Project</h3>
-      <p>A comprehensive e-commerce simulation handling product catalogs, shopping carts, order processing, and user checkout workflows.</p>
-      <p>
-      </p>
-      <p>
-        🔗 <a href="https://github.com/NedalShoqo/Java-Shopping-Project"><b>View Repository »</b></a>
-      </p>
-      <h3>✈️ Flight & Hotel Booking</h3>
-      <p>A full-featured booking and management system for searching, reserving, and managing flight itineraries and hotel stays.</p>
-      <p>
-      </p>
-      <p>
-        🔗 <a href="https://github.com/NedalShoqo/FlightHotel-13"><b>View Repository »</b></a>
-      </p>
-    </td>
+   <p>A desktop/backend application designed to track, analyze, and log daily emotional trends and habits over time using Java.</p>
+
+   <p>
+      🔗 <a href="https://github.com/NedalShoqo/Java-MoodTracker"><b>View Repository »</b></a>
+   </p>
+
+   <h3>🛒 Java Shopping Project</h3>
+   <p>A comprehensive e-commerce simulation handling product catalogs, shopping carts, order processing, and user checkout workflows.</p>
+   <p>
+   </p>
+   <p>
+      🔗 <a href="https://github.com/NedalShoqo/Java-Shopping-Project"><b>View Repository »</b></a>
+   </p>
+
+   <h3>✈️ Flight & Hotel Booking</h3>
+   <p>A full-featured booking and management system for searching, reserving, and managing flight itineraries and hotel stays.</p>
+   <p>
+   </p>
+   <p>
+      🔗 <a href="https://github.com/NedalShoqo/FlightHotel-13"><b>View Repository »</b></a>
+   </p>
+
+   <h3>♻️ Java EcoPoints Recycling Tracker</h3>
+   <p>A Java-based recycling management system for managing households, tracking recycling activities, calculating eco-points, and generating recycling reports.</p>
+   <p>
+      🔗 <a href="https://github.com/NedalShoqo/Java-EcoPoints-Tracker"><b>View Repository »</b></a>
+   </p>
+</td>
   </tr>
 </table>
 
