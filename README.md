@@ -13,8 +13,10 @@
 🚀 Currently focused on Java, Spring Boot, REST APIs, databases, and backend architecture  
 ☁️ Exploring Cloud Engineering and scalable backend systems  
 
-💼 [LinkedIn](https://www.linkedin.com/in/nedal-shoqo-b717372b4) |
+💼 [LinkedIn](https://www.linkedin.com/in/nedal-shoqo-b717372b4) |   🌐 [Portfolio](nedal-shoqo.vercel.app)
 <td style="vertical-align: top; padding-right: 20px;">
+
+
 
 ## ☕ Java Tech Stack
 <img width="480" height="344" alt="image" src="https://github.com/user-attachments/assets/b3d1724b-a25e-406e-9562-c10460717281" />
